@@ -6,4 +6,4 @@ Uplabs design        |  Flutter rendering
 :-------------------------:|:-------------------------:
 <img src="/screenshots/uplabs.png" width="430">
 <img src="/screenshots/flutter_app.jpg" width="430">
-<img width="430 height="430"" src="/screenshots/flutter_app2.jpg">
+<img width="430" height="430" src="screenshots/flutter_app2.jpg">
